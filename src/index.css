@@ -1,8 +1,7 @@
+@import 'https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/github.min.css';
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-/* rehype-highlight default theme */
-@import 'https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/github.min.css';
 
 html, body, #root { height: 100%; }
